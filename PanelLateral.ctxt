@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PanelLateral
+comment1.params=tetris
+comment1.target=PanelLateral(Tetris)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=tipo\ x\ y\ g
+comment3.target=void\ vistPrevia(Figura,\ int,\ int,\ java.awt.Graphics)
+comment3.text=\r\n\ Dibuja\ un\ mosaico\ en\ la\ ventana\ de\ vista\ previa.\r\n
+numComments=4
